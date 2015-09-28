@@ -7,4 +7,4 @@ function inpectlet(wid) {
   })();
 }
 
-module.exports = inspect;
+module.exports = inpectlet;
