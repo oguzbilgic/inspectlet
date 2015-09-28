@@ -1,0 +1,22 @@
+{
+  "name": "inspectlet",
+  "version": "0.1.0",
+  "description": "Inspectlet initializer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzbilgic/inspectlet.git"
+  },
+  "keywords": [
+    "inspectlet"
+  ],
+  "author": "Oguz Bilgic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oguzbilgic/inspectlet/issues"
+  },
+  "homepage": "https://github.com/oguzbilgic/inspectlet#readme"
+}
